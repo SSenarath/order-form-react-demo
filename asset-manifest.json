@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/order-form-react-demo/static/css/main.073c9b0a.css",
+    "main.js": "/order-form-react-demo/static/js/main.6d00d686.js",
+    "static/js/787.e76168ef.chunk.js": "/order-form-react-demo/static/js/787.e76168ef.chunk.js",
+    "static/media/logo.svg": "/order-form-react-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/order-form-react-demo/index.html",
+    "main.073c9b0a.css.map": "/order-form-react-demo/static/css/main.073c9b0a.css.map",
+    "main.6d00d686.js.map": "/order-form-react-demo/static/js/main.6d00d686.js.map",
+    "787.e76168ef.chunk.js.map": "/order-form-react-demo/static/js/787.e76168ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6d00d686.js"
+  ]
+}
